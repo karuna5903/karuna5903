@@ -1,5 +1,7 @@
 # Hi there, I'm Karuna Kandulna! 👋
 
+ 
+
 I am an **Aspiring Software Engineer** based in Pune, Maharashtra. I specialize in **Java Full Stack development** and love building responsive, user-centric web applications.
 
 ---
@@ -20,6 +22,8 @@ I am an **Aspiring Software Engineer** based in Pune, Maharashtra. I specialize 
 | **UI Frameworks** | Bootstrap |
 | **Databases** | MySQL, SQL Server  |
 | **Core CS** | DBMS, Operating Systems  |
+
+
 
  
 
