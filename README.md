@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Karuna Kandulna! 👋
 
-<!--
-**karuna5903/karuna5903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Aspiring Software Engineer** based in Pune, Maharashtra. I specialize in **Java Full Stack development** and love building responsive, user-centric web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 **Education:** 2025 batch graduate student with a degree BBA in Computer Application from Pratibha College (CGPA: 7.97).
+- 💡 **Goal:** Leveraging my technical training in Java and React to contribute to growth-oriented engineering teams.
+- 🛠️ **Certification:** Certified Full Stack Java Developer from Seven Mentor, Pune.
+
+---
+
+### 💻 Technical Skills
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Java, C, SQL  |
+| **Frontend** | React.js, JavaScript (ES6+), jQuery, HTML5, CSS3  |
+| **UI Frameworks** | Bootstrap |
+| **Databases** | MySQL, SQL Server  |
+| **Core CS** | DBMS, Operating Systems  |
+
+ 
+
+### 📫 Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/karuna-kandulna-b1a3663a1
+- **Email:** karunakandulna195@gmail.com 
+- **Location:** Pune, Maharashtra 
+
+---
+*“Eager to turn complex problems into elegant, functional code.”*
+
+
+ 
