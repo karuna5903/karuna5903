@@ -4,6 +4,9 @@
 
 I am an **Aspiring Software Engineer** based in Pune, Maharashtra. I specialize in **Java Full Stack development** and love building responsive, user-centric web applications.
 
+
+📄 **Check out my [Resume](https://docs.google.com/document/d/1vTcHlQ2KORZns1Lf8goR5oYVZjAbAS5VxprFuSFNIO8/edit?usp=drive_link)**  
+
 ---
 
 ### 🚀 About Me
